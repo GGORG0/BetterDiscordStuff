@@ -1,5 +1,5 @@
 # GnomeBadge
-This is a plugin that (hopefully) fixes the annoying Linux Discord unread messages badge. It features a server (the Discord plugin) and a client (a Python script).
+This is a plugin that (hopefully) fixes the annoying Linux Discord unread messages badge. Besides the name, it should also work on other desktop environments other than Gnome. It features a server (the Discord plugin) and a client (a Python script).
 You first have to add the plugin, making sure that the 6968 port is free and then run the `badge-updater.py` script in the background.
 It can be done like this:
 ```bash
