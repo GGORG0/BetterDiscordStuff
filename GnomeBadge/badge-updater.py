@@ -4,7 +4,7 @@
 from gi.repository import Unity, Gio, GObject, GLib, Dbusmenu
 import requests
 
-DESKTOP_FILE = "powercord.desktop"
+DESKTOP_FILE = "discord.desktop"
 UPDATE_SECONDS = 2
 
 loop = GLib.MainLoop()
